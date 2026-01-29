@@ -1,0 +1,18 @@
+# requirements_windows.txt
+# Windows dependencies for Riko AI
+
+# Core AI
+groq>=0.4.0
+
+# Voice features
+pyttsx3>=2.90              # Text-to-Speech (offline, Windows native)
+SpeechRecognition>=3.10.0  # Speech-to-Text (Google API)
+
+# PyAudio - for microphone input
+# Note: Installation on Windows may require pre-compiled wheel
+# Download from: https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+# Or use: pip install pipwin && pipwin install pyaudio
+pyaudio>=0.2.13
+
+# GUI - Tkinter (comes with Python, no installation needed)
+# If missing, reinstall Python with tcl/tk support
