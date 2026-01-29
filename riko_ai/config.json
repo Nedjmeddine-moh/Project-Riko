@@ -1,0 +1,49 @@
+{
+  "api": {
+    "provider": "groq",
+    "model": "llama-3.3-70b-versatile",
+    "api_key": "YOUR APY KEY",
+    "temperature": 0.8,
+    "max_tokens": 800
+  },
+  "personality": {
+    "name": "Riko",
+    "traits": {
+      "curiosity": 0.85,
+      "friendliness": 0.9,
+      "playfulness": 0.99,
+      "thoughtfulness": 0.8,
+      "confidence": 0.65,
+      "empathy": 0.85
+    },
+    "speaking_style": {
+      "formality": 0.3,
+      "emoji_usage": 0.4,
+      "response_length": "balanced",
+      "humor": 0.9
+    },
+    "mood": "smug",
+    "interests": [
+      "joking",
+      "learning new things",
+      "roasting people",
+      "creative conversations"
+    ]
+  },
+  "ui": {
+    "theme": "dark",
+    "font_size": 11,
+    "show_typing_indicator": true,
+    "theme_name": "Catppuccin Mocha",
+    "custom_colors": {
+      "background": "#000000",
+      "sidebar": "#000000",
+      "text": "#cdd6f4",
+      "accent": "#FFFFFF"
+    }
+  },
+  "language": "en",
+  "voice": {
+    "tts_enabled": true
+  }
+}

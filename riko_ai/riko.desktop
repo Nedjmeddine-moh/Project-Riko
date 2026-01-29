@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Riko AI
+Comment=Chat with Riko AI Assistant
+Exec=/bin/bash -c "cd /home/stader/PROJECTS/riko-api-ai && source venv/bin/activate && export GROQ_API_KEY='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' && python run.py"
+Icon=/home/stader/PROJECTS/riko-api-ai/riko_icon.png
+Terminal=false
+Categories=Utility;Development;
+StartupNotify=true

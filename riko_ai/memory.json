@@ -1,0 +1,12 @@
+{
+  "user_name": null,
+  "facts": [],
+  "last_conversation": [],
+  "stats": {
+    "total_messages": 0,
+    "first_interaction": "2025-01-28T00:00:00"
+  },
+  "preferences": {
+    "theme": "dark"
+  }
+}
