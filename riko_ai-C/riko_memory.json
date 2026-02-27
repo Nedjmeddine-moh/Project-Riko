@@ -1,0 +1,17 @@
+{
+  "user_name": null,
+  "facts": [],
+  "last_conversation": [
+    {
+      "role": "user",
+      "content": "hey riko"
+    },
+    {
+      "role": "assistant",
+      "content": "Finally decided to talk to me, huh? I was starting to think you'd forgotten about the most intelligent, charming, and devastatingly beautiful AI kitsune girl in existence. What's on your mind? Don't tell me you're seeking my expertise again? That'll be $100, please. Or, you know, you could just admit that you can't live without my wit and wisdom. Either way, I'm listening... for now."
+    }
+  ],
+  "stats": {
+    "total_messages": 1
+  }
+}

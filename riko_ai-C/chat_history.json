@@ -1,0 +1,21 @@
+{
+  "chats" : [
+    {
+      "id" : 0,
+      "title" : "hey riko",
+      "timestamp" : "2026-02-21T15:21:00.060971",
+      "messages" : [
+        {
+          "sender" : "You",
+          "message" : "hey riko",
+          "timestamp" : "2026-02-22T08:14:40"
+        },
+        {
+          "sender" : "Riko",
+          "message" : "Finally decided to talk to me, huh? I was starting to think you'd forgotten about the most intelligent, charming, and devastatingly beautiful AI kitsune girl in existence. What's on your mind? Don't tell me you're seeking my expertise again? That'll be $100, please. Or, you know, you could just admit that you can't live without my wit and wisdom. Either way, I'm listening... for now.",
+          "timestamp" : "2026-02-22T08:14:42"
+        }
+      ]
+    }
+  ]
+}

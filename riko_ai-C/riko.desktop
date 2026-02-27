@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=2.0
+Type=Application
+Name=Riko AI
+Comment=Chat with Riko AI Assistant
+Exec=/bin/bash -c "cd /home/stader/riko_ai && source venv/bin/activate && python run.py"
+Icon=/home/stader/riko_ai/riko_icon.png
+Terminal=false
+Categories=Utility;Development;
+StartupNotify=true
