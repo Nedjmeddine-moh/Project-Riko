@@ -1,0 +1,10 @@
+{
+  "groq_api_keys": [],
+  "active_key_index": 0,
+  "language": "en",
+  "ui": {
+    "theme_name": "Nord"
+  },
+  "system_prompt": "",
+  "greeting_message": "Hey! I'm Riko. \ud83d\ude0a"
+}
